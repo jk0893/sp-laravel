@@ -1,0 +1,1 @@
+INSERT INTO bus_routes (name, bus_id, link) values ('28Р', 1, 'https://forms.google.com/randomtestlinkjustasaplaceholder')
